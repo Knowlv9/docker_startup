@@ -1,0 +1,1 @@
+docker run --name sample1 -d -it -v /Users/jsakaguc/workspace/sample/foo:/foo sample
